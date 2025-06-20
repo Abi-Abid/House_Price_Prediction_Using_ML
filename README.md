@@ -3,6 +3,12 @@
 
 # House Price Prediction using ML
 
+By
+
+**Dudekula Abid Hussain**
+
+Email - dabidhussain2502@gmail.com | Kaggle - https://www.kaggle.com/abiabid 
+
 This project is based on the classic **House Prices: Advanced Regression Techniques** [Kaggle House Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition from **Kaggle**, where the objective is to predict house sale prices using various features. The dataset contains **1460 rows** and **80 features** representing physical attributes and location-based characteristics of houses.
 
 **Problem Statement** - Build a regression model to accurately predict the **Sale Price** of houses using the given data. Since housing prices are influenced by a combination of numeric and categorical variables, proper preprocessing and modeling are key to achieving high prediction accuracy.
